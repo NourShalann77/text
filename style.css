@@ -1,0 +1,16 @@
+
+.heading {
+    font-family: 'Arial', sans-serif; 
+    font-size: 36px;                
+    font-weight: bold;              
+    color: darkblue;                 
+  }
+  
+
+  .paragraph {
+    font-family: 'Georgia', serif;  
+    font-size: 18px;                 
+    font-style: italic;              
+    color: darkgreen;              
+  }
+  
